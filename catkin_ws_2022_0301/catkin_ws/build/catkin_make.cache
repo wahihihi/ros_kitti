@@ -1,0 +1,2 @@
+kitti_tutorial:kitti_tutorial_6
+-DCATKIN_DEVEL_PREFIX=/home/swh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/swh/catkin_ws/install -G Unix Makefiles

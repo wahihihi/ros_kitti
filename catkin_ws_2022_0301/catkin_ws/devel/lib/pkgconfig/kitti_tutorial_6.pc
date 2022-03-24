@@ -1,0 +1,8 @@
+prefix=/home/swh/catkin_ws/devel
+
+Name: kitti_tutorial_6
+Description: Description of kitti_tutorial_6
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
